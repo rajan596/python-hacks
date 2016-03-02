@@ -5,7 +5,7 @@ url="https://www.codechef.com/"
 
 values={
     'username':'rtkasodariya',
-    'password':'rajan1996'
+    'password':'password'
 }
 
 # encode data
