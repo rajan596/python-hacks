@@ -1,0 +1,8 @@
+Simple file Vs SQLite
+>> need to load whole file to quety in simple file 
+>> SQLite : Based on the concept of DBMS
+
+MySQL Vs SQLite
+>> Lighter version of MySQLi
+>> No need to create server
+>> No need for login and password
