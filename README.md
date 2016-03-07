@@ -10,6 +10,6 @@ python 3.4 scripts Programmes
 # If you are having issues in installing packages , follow these commands [ For unix ]
 sudo pip3 install package-name OR
 
-download *.tar.gz file , extract it , open terminal in this directory, Now execute
-sudo python3 setup.py install [ for python 3.x ]
-sudo python setup.py install [ for python 3.x]
+download *.tar.gz file , extract it , open terminal in this directory, Now execute  
+sudo python3 setup.py install [ for python 3.x ]  
+sudo python setup.py install [ for python 3.x]  
