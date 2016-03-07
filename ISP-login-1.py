@@ -50,5 +50,5 @@ if __name__=="__main__":
     #logout()
 
 '''
-driver.current_url : TO get url of currently opend window
+driver.current_url : TO get url of currently opened window
 '''
